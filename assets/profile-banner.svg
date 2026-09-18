@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Yogesh Perumal — Frappe and ERPNext Developer</title>
+  <desc id="desc">A dark futuristic developer banner highlighting backend engineering, developer tooling, and applied AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="0.52" stop-color="#10172A"/>
+      <stop offset="1" stop-color="#11102A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00D9FF"/>
+      <stop offset="0.55" stop-color="#7C5CFC"/>
+      <stop offset="1" stop-color="#E855FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7C5CFC" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#7C5CFC" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#89A2C8" stroke-opacity=".075"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity=".42"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="40" r="250" fill="url(#glow)"/>
+  <circle cx="110" cy="318" r="180" fill="url(#glow)" opacity=".45"/>
+  <rect x="0" y="0" width="8" height="340" rx="4" fill="url(#accent)"/>
+
+  <g transform="translate(72 61)">
+    <rect width="92" height="92" rx="26" fill="#0E1528" stroke="url(#accent)" stroke-width="2"/>
+    <text x="46" y="59" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="800" fill="#F7FAFF">YP</text>
+    <circle cx="80" cy="12" r="4" fill="#00D9FF"/>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="190" y="88" fill="#9AA8C4" font-size="15" font-weight="700" letter-spacing="3">HELLO, I AM</text>
+    <text x="190" y="145" fill="#F7FAFF" font-size="52" font-weight="800" letter-spacing="-1.5">Yogesh Perumal</text>
+    <rect x="190" y="162" width="415" height="4" rx="2" fill="url(#accent)"/>
+    <text x="190" y="205" fill="#C8D5EA" font-size="21" font-weight="600">Frappe / ERPNext Developer · Backend Engineer</text>
+    <text x="190" y="240" fill="#8FA1BE" font-size="17">Developer tooling · Platform engineering · Applied AI</text>
+    <text x="190" y="287" fill="#E8EEFA" font-size="18" font-weight="600">I turn complex workflows into clear, reliable systems.</text>
+  </g>
+
+  <g transform="translate(790 62)" filter="url(#shadow)" font-family="JetBrains Mono,Consolas,monospace">
+    <rect width="338" height="218" rx="16" fill="#090E1B" stroke="#283555"/>
+    <rect width="338" height="42" rx="16" fill="#131C31"/>
+    <rect y="27" width="338" height="15" fill="#131C31"/>
+    <circle cx="22" cy="21" r="5" fill="#FF6482"/>
+    <circle cx="40" cy="21" r="5" fill="#FFD166"/>
+    <circle cx="58" cy="21" r="5" fill="#4BE3AC"/>
+    <text x="84" y="27" fill="#7588A9" font-size="12">profile.py</text>
+
+    <text x="22" y="78" fill="#7E91B4" font-size="14">01</text>
+    <text x="54" y="78" fill="#C792EA" font-size="14">class</text>
+    <text x="102" y="78" fill="#82AAFF" font-size="14">Developer:</text>
+
+    <text x="22" y="111" fill="#7E91B4" font-size="14">02</text>
+    <text x="54" y="111" fill="#89DDFF" font-size="14">focus</text>
+    <text x="101" y="111" fill="#C3E88D" font-size="14">= "Frappe"</text>
+
+    <text x="22" y="144" fill="#7E91B4" font-size="14">03</text>
+    <text x="54" y="144" fill="#89DDFF" font-size="14">craft</text>
+    <text x="101" y="144" fill="#C3E88D" font-size="14">= "Backend"</text>
+
+    <text x="22" y="177" fill="#7E91B4" font-size="14">04</text>
+    <text x="54" y="177" fill="#89DDFF" font-size="14">mission</text>
+    <text x="117" y="177" fill="#C3E88D" font-size="14">= "Build useful"</text>
+
+    <rect x="22" y="195" width="8" height="3" rx="1.5" fill="#00D9FF"/>
+  </g>
+
+  <rect x="0" y="329" width="1200" height="11" rx="5.5" fill="url(#accent)" opacity=".82"/>
+</svg>
