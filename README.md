@@ -1,72 +1,66 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Yogesh637/Yogesh637/main/assets/profile-banner.svg" alt="Yogesh Perumal — Frappe and ERPNext Developer">
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:6E45E2,100:FF4ECD&height=190&section=header&text=Yogesh%20Perumal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frappe%20%2F%20ERPNext%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Developer%20Tools%20Builder&descAlignY=62&descSize=17" alt="Yogesh Perumal banner" />
+<p align="center">
+  <a href="https://github.com/Yogesh637"><strong>GitHub</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/yogesh-perumal"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Yogesh637?tab=repositories"><strong>Projects</strong></a>
+</p>
 
-<a href="https://github.com/Yogesh637">
-  <img src="https://img.shields.io/badge/GitHub-Yogesh637-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/yogesh-perumal">
-  <img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Perumal-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
-<img src="https://komarev.com/ghpvc/?username=Yogesh637&style=for-the-badge&color=6E45E2" alt="Profile views">
+<p align="center">
+  <em>Building dependable business systems and developer tools with Frappe, Python and backend engineering.</em>
+</p>
 
-<br><br>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=760&lines=Building+reliable+Frappe+%26+ERPNext+solutions;Exploring+AST%2C+profiling+%26+code+quality;Turning+developer+pain+points+into+useful+tools" alt="Typing introduction">
+## What I do
 
-</div>
+I am a Computer Science engineer who enjoys working below the surface of applications: understanding **hooks, permissions, workflows, APIs, realtime events, database behaviour and production infrastructure**, then turning that knowledge into software that is easier to use and maintain.
 
-## About me
+My work currently sits at the intersection of:
 
-I am a Computer Science engineer focused on **Frappe Framework, ERPNext and backend development**. I enjoy understanding how systems work beneath the UI—hooks, permissions, workflows, APIs, realtime events, profiling and production infrastructure—and using that knowledge to build practical developer tools.
+- **Frappe platform engineering** — DocTypes, workflows, permissions, reports, fixtures, hooks and production deployment
+- **Backend development** — application architecture, REST APIs, data modelling and business logic
+- **Developer tooling** — static analysis, profiling, observability, automated testing and quality gates
+- **Applied AI** — using intelligent systems to make development and debugging more effective
 
-- Building **Frappe Sentinel**, an installable quality gate for custom Frappe applications
-- Experienced with Frappe DocTypes, reports, workflows, fixtures, hooks, permissions and REST APIs
-- Interested in static analysis, performance profiling, observability and AI-assisted development
-- Comfortable across Java, Python, Go, JavaScript, SQL and Linux development environments
-- Open to backend, Frappe/ERPNext and AI engineering opportunities
+## Current mission — Frappe Sentinel
 
-## Technology stack
+> **Frappe Sentinel** is an installable quality gate for custom Frappe applications.  
+> The goal is to let developers select an installed app, scan it, inspect evidence, generate tests, review proposed improvements and verify results without leaving Frappe Desk.
 
-<div align="center">
+**Problem being addressed:** Frappe developers currently lack a single place to understand code-quality issues, performance bottlenecks and invisible multi-app hook interactions.
 
-### Frappe ecosystem
+[Explore Frappe Sentinel →](https://github.com/Yogesh637/project-sentinal)
 
-<img src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge&logo=frappe&logoColor=white" alt="Frappe Framework">
-<img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white" alt="ERPNext">
-<img src="https://img.shields.io/badge/Bench_CLI-222222?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bench CLI">
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
+## Engineering toolbox
 
-### Languages, tools and platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,go,cs,cpp,js,html,css,bootstrap,react,mysql,git,github,linux,aws,vscode&perline=8" alt="Python, Java, Go, C Sharp, C++, JavaScript, HTML, CSS, Bootstrap, React, MySQL, Git, GitHub, Linux, AWS and VS Code">
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,go,cs,cpp,js,html,css,bootstrap,react,mysql,git,github,linux,aws,vscode&perline=8" alt="Programming languages and tools">
+<p align="center">
+  <strong>Frappe Framework</strong> · <strong>ERPNext</strong> · Bench CLI · REST APIs · Realtime Events · Nginx · Redis · Supervisor
+</p>
 
-</div>
+## Selected engineering work
 
-## Featured projects
-
-| Project | What it demonstrates | Core technologies |
+| Project | Engineering focus | Stack |
 |---|---|---|
-| [**Frappe Sentinel**](https://github.com/Yogesh637/project-sentinal) | An installable Frappe quality gate for scanning applications, inspecting evidence, generating tests and reviewing proposed improvements. **In active development.** | Frappe, Python AST, profiling, static analysis |
-| [**Community Rental Platform**](https://github.com/Yogesh637/Neighbour_lend) | Full-stack neighbour-lending platform with authentication, item listings, rental requests and user dashboards. | Java, Spring Boot, React, MySQL, JWT |
-| [**Frappe Application**](https://github.com/Yogesh637/frappe-app) | Practical Frappe development covering DocTypes, reports, automation, realtime events, testing and CI tooling. | Frappe, Python, JavaScript, SQL |
-| [**LRU Cache**](https://github.com/Yogesh637/LRU_Cache) | O(1) cache implementation using a HashMap and doubly linked list with a CLI interface. | Java, data structures, algorithms |
-| [**Fine Management System**](https://github.com/Yogesh637/Fine_Managment) | Console application for recording, viewing, clearing and tracking fines. | Java, OOP |
+| [**Frappe Sentinel**](https://github.com/Yogesh637/project-sentinal) | Installable code-quality and performance platform for custom Frappe applications. Currently in active development. | Frappe, Python AST, profiling, static analysis |
+| [**Community Rental Platform**](https://github.com/Yogesh637/Neighbour_lend) | Full-stack lending platform with JWT authentication, item listings, rental requests and user dashboards. | Java, Spring Boot, React, MySQL |
+| [**Frappe Application**](https://github.com/Yogesh637/frappe-app) | Hands-on Frappe development across DocTypes, reports, automation, realtime events, testing and CI. | Frappe, Python, JavaScript, SQL |
+| [**LRU Cache**](https://github.com/Yogesh637/LRU_Cache) | O(1) cache implementation using a HashMap and doubly linked list, exposed through a CLI. | Java, data structures, algorithms |
+| [**Fine Management System**](https://github.com/Yogesh637/Fine_Managment) | Application for recording, reviewing, clearing and tracking fines. | Java, OOP |
 
-## GitHub analytics
+## Development activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogesh637&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Yogesh's GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh637&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Yogesh's most used languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Yogesh637&theme=tokyonight&hide_border=true" alt="Yogesh's GitHub contribution streak">
-
-</div>
-
-## Contribution activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yogesh637&theme=tokyonight&hide_border=true&background=0D1117&ring=7C5CFC&fire=00D9FF&currStreakLabel=E8EEFA" alt="Yogesh's GitHub contribution streak">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogesh637/Yogesh637/output/github-contribution-grid-snake-dark.svg">
@@ -74,14 +68,10 @@ I am a Computer Science engineer focused on **Frappe Framework, ERPNext and back
   <img width="100%" alt="Animated snake moving through Yogesh's GitHub contribution graph" src="https://raw.githubusercontent.com/Yogesh637/Yogesh637/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
+---
 
-### Let's build something useful
-
-I am especially interested in projects involving **Frappe/ERPNext, backend engineering, developer tooling and applied AI**.
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:6E45E2,100:FF4ECD&height=110&section=footer" alt="Footer">
-
-</div>
+<p align="center">
+  <strong>Interested in Frappe/ERPNext, backend engineering, developer tooling or applied AI?</strong>
+  <br>
+  <a href="https://www.linkedin.com/in/yogesh-perumal">Let's connect on LinkedIn →</a>
+</p>
