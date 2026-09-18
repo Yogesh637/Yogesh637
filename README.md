@@ -1,65 +1,109 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Yogesh637/Yogesh637/main/assets/profile-banner.svg" alt="Yogesh Perumal — Frappe and ERPNext Developer">
+  <img width="100%" src="https://raw.githubusercontent.com/Yogesh637/Yogesh637/main/assets/profile-banner.svg" alt="Yogesh Perumal — Backend and Frappe Engineer">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yogesh637"><strong>GitHub</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/yogesh-perumal"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Yogesh637?tab=repositories"><strong>Projects</strong></a>
+  <a href="https://github.com/Yogesh637">GitHub</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yogesh-perumal">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Yogesh637?tab=repositories">All projects</a>
 </p>
 
 <p align="center">
-  <em>Building dependable business systems and developer tools with Frappe, Python and backend engineering.</em>
+  <strong>I engineer dependable business systems—and the tools that make them easier to understand, test and improve.</strong>
 </p>
 
 ---
 
-## What I do
+## 👋 The short version
 
-I am a Computer Science engineer who enjoys working below the surface of applications: understanding **hooks, permissions, workflows, APIs, realtime events, database behaviour and production infrastructure**, then turning that knowledge into software that is easier to use and maintain.
+I'm **Yogesh Perumal**, a Computer Science engineer specializing in **Frappe / ERPNext, backend systems and developer tooling**.
 
-My work currently sits at the intersection of:
+I like the parts of software that live beneath the interface: permissions, workflows, hooks, APIs, data models, realtime events, profiling and production infrastructure. My goal is simple—turn complex system behaviour into software that is reliable, observable and pleasant to maintain.
 
-- **Frappe platform engineering** — DocTypes, workflows, permissions, reports, fixtures, hooks and production deployment
-- **Backend development** — application architecture, REST APIs, data modelling and business logic
-- **Developer tooling** — static analysis, profiling, observability, automated testing and quality gates
-- **Applied AI** — using intelligent systems to make development and debugging more effective
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Current mission — Frappe Sentinel
+### 🎯 Building
 
-> **Frappe Sentinel** is an installable quality gate for custom Frappe applications.  
-> The goal is to let developers select an installed app, scan it, inspect evidence, generate tests, review proposed improvements and verify results without leaving Frappe Desk.
+**Frappe Sentinel**  
+A quality and performance workbench for custom Frappe applications.
 
-**Problem being addressed:** Frappe developers currently lack a single place to understand code-quality issues, performance bottlenecks and invisible multi-app hook interactions.
+</td>
+<td width="33%" valign="top">
 
-[Explore Frappe Sentinel →](https://github.com/Yogesh637/project-sentinal)
+### 🔬 Exploring
 
-## Engineering toolbox
+Static analysis, Python ASTs, runtime profiling, observability and AI-assisted development.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤝 Open to
+
+Backend, Frappe / ERPNext and developer-tooling opportunities with real engineering depth.
+
+</td>
+</tr>
+</table>
+
+## ⚡ Current mission
+
+### Frappe Sentinel
+
+> An installable quality gate that helps Frappe teams understand a custom app before problems reach production.
+
+The intended workflow is:
+
+`select app` → `scan code + runtime` → `inspect evidence` → `generate tests` → `review improvements` → `verify`
+
+It is designed to bring code-quality signals, performance bottlenecks and hidden multi-app hook interactions into one place inside Frappe Desk.
+
+**Engineering themes:** Python AST analysis · profiling · evidence-first diagnostics · automated testing · safe remediation
+
+[**Explore Frappe Sentinel →**](https://github.com/Yogesh637/project-sentinal)
+
+## 🧰 Engineering toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,go,cs,cpp,js,html,css,bootstrap,react,mysql,git,github,linux,aws,vscode&perline=8" alt="Python, Java, Go, C Sharp, C++, JavaScript, HTML, CSS, Bootstrap, React, MySQL, Git, GitHub, Linux, AWS and VS Code">
 </p>
 
-<p align="center">
-  <strong>Frappe Framework</strong> · <strong>ERPNext</strong> · Bench CLI · REST APIs · Realtime Events · Nginx · Redis · Supervisor
-</p>
+<table>
+<tr>
+<td><strong>Platform</strong></td>
+<td>Frappe Framework · ERPNext · DocTypes · Hooks · Workflows · Permissions · Bench CLI</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>Python · Java · Go · REST APIs · SQL · Data modelling · Realtime events</td>
+</tr>
+<tr>
+<td><strong>Quality</strong></td>
+<td>Static analysis · Profiling · Testing · CI · Observability · Performance investigation</td>
+</tr>
+<tr>
+<td><strong>Operations</strong></td>
+<td>Linux · Git · GitHub Actions · Nginx · Redis · Supervisor · AWS</td>
+</tr>
+</table>
 
-## Selected engineering work
+## 🚀 Selected work
 
-| Project | Engineering focus | Stack |
+| Project | What it demonstrates | Core stack |
 |---|---|---|
-| [**Frappe Sentinel**](https://github.com/Yogesh637/project-sentinal) | Installable code-quality and performance platform for custom Frappe applications. Currently in active development. | Frappe, Python AST, profiling, static analysis |
-| [**Community Rental Platform**](https://github.com/Yogesh637/Neighbour_lend) | Full-stack lending platform with JWT authentication, item listings, rental requests and user dashboards. | Java, Spring Boot, React, MySQL |
-| [**Frappe Application**](https://github.com/Yogesh637/frappe-app) | Hands-on Frappe development across DocTypes, reports, automation, realtime events, testing and CI. | Frappe, Python, JavaScript, SQL |
-| [**LRU Cache**](https://github.com/Yogesh637/LRU_Cache) | O(1) cache implementation using a HashMap and doubly linked list, exposed through a CLI. | Java, data structures, algorithms |
-| [**Fine Management System**](https://github.com/Yogesh637/Fine_Managment) | Application for recording, reviewing, clearing and tracking fines. | Java, OOP |
+| [**Frappe Sentinel**](https://github.com/Yogesh637/project-sentinal) | Designing an installable quality and performance platform for custom Frappe apps. | Frappe · Python AST · profiling |
+| [**Frappe Application**](https://github.com/Yogesh637/frappe-app) | Practical work with DocTypes, reports, automation, realtime events, tests and CI. | Frappe · Python · JavaScript · SQL |
+| [**Community Rental Platform**](https://github.com/Yogesh637/Neighbour_lend) | Full-stack lending workflows with authentication, listings, rental requests and dashboards. | Spring Boot · React · MySQL |
+| [**LRU Cache**](https://github.com/Yogesh637/LRU_Cache) | O(1) cache operations through a HashMap and doubly linked list. | Java · data structures |
+| [**Fine Management System**](https://github.com/Yogesh637/Fine_Managment) | Object-oriented modelling of fine recording, review, clearing and tracking. | Java · OOP |
 
-## Development activity
+## 🐍 Contribution trail
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yogesh637&theme=tokyonight&hide_border=true&background=0D1117&ring=7C5CFC&fire=00D9FF&currStreakLabel=E8EEFA" alt="Yogesh's GitHub contribution streak">
+  <em>The snake below is regenerated automatically from my real GitHub contribution history.</em>
 </p>
 
 <picture>
@@ -71,7 +115,8 @@ My work currently sits at the intersection of:
 ---
 
 <p align="center">
-  <strong>Interested in Frappe/ERPNext, backend engineering, developer tooling or applied AI?</strong>
+  <strong>Good systems become great when their behaviour is visible.</strong>
   <br>
-  <a href="https://www.linkedin.com/in/yogesh-perumal">Let's connect on LinkedIn →</a>
+  If you're working on Frappe, backend platforms or developer tooling,
+  <a href="https://www.linkedin.com/in/yogesh-perumal">let's connect</a>.
 </p>
